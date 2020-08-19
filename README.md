@@ -7,6 +7,8 @@
 
 <b>Functions</b>
 <br><br><br>
+
+<i>
 Create Matrices using 2 Dimensional Arrays
 <br>
 Edit Values
@@ -25,4 +27,5 @@ Check for invertiblity
 <br>
 Check for square matrices
 <br>
+</i>
 Sample Driver also provided
