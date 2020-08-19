@@ -28,4 +28,6 @@ Check for invertiblity
 Check for square matrices
 <br>
 </i>
-Sample Driver also provided
+<br>
+
+<b>Sample Driver also provided</b>
