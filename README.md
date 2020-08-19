@@ -1,5 +1,6 @@
 # Matrix_Functions
-Matrix Functions | Written In Java
+<b>Matrix Functions | Written In Java</b>
+<br>
 ![Image of code](http://arashtabrizi.com/images/code.PNG)
 All in one class to be used in JAVA
 <br>
