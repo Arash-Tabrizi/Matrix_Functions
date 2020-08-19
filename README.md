@@ -1,6 +1,6 @@
 # Matrix_Functions
 Matrix Functions | Written In Java
-![Image of code](https://github.com/Arash-Tabrizi/Matrix_Functions/code.png)
+![Image of code](http://arashtabrizi.com/images/code.PNG)
 All in one class to be used in JAVA
 <br>
 Create Matrices using 2 Dimensional Arrays
