@@ -2,8 +2,11 @@
 <b>Matrix Functions | Written In Java</b>
 <br>
 ![Image of code](http://arashtabrizi.com/images/code.PNG)
-All in one class to be used in JAVA
+
 <br>
+
+<b>Functions</b>
+<br><br><br>
 Create Matrices using 2 Dimensional Arrays
 <br>
 Edit Values
