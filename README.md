@@ -1,6 +1,6 @@
 # Matrix_Functions
 Matrix Functions | Written In Java
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of code](https://octodex.github.com/images/yaktocat.png)
 All in one class to be used in JAVA
 <br>
 Create Matrices using 2 Dimensional Arrays
